@@ -1,1 +1,2 @@
 include ':notes'
+include ':notes_instrumented_tests'
